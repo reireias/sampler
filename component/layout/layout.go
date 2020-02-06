@@ -41,7 +41,7 @@ const (
 
 const (
 	minDimension    = 3
-	statusbarHeight = 1
+	statusbarHeight = 0
 )
 
 func NewLayout(statusline *component.StatusBar, menu *component.Menu) *Layout {
