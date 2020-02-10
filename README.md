@@ -1,3 +1,9 @@
+# Changes from Original
+- ARM Build support
+- drop sound components
+- hide status bar
+- modify symbol for ASCII
+
 # Sampler. Visualization for any shell command.
 [![Build Status](https://travis-ci.com/sqshq/sampler.svg?token=LdyRhxxjDFnAz1bJg8fq&branch=master)](https://travis-ci.com/sqshq/sampler) [![Go Report Card](https://goreportcard.com/badge/github.com/sqshq/sampler)](https://goreportcard.com/report/github.com/sqshq/sampler)
 
